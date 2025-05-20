@@ -34,7 +34,7 @@
 
 
 ### 💻 Most Used Languages
-![emykr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emykr&layout=compact&theme=radical
+![emykr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emykr&layout=compact&theme=radical)
 
 
 
