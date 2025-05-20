@@ -32,3 +32,9 @@
 ## 📈 GitHub Stats
 ![emykr's GitHub stats](https://github-readme-stats.vercel.app/api?username=emykr&show_icons=true)
 
+
+### 💻 Most Used Languages
+![emykr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emykr&layout=compact&theme=radical
+
+
+
